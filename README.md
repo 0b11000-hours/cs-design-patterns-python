@@ -4,7 +4,17 @@ This repository is a collection of coding and system desing patterns in Python. 
 patterns for solving coding problems and system design problems. The patterns are organized in a way that makes it easy
 to understand and apply them to solve problems.
 
-[Roadmap](roadmap.md)
+# Roadmap
+
+```mermaid
+    gantt
+    section Section
+    Initial milestone : milestone, m1, 2025-02-01, 2m
+    Initialize :done,    des1,2025-02-01, 2d
+    Scope Finalize   :  active,  des2, 2025-02-01, 5d
+    Python Language :   des3, after des1, 5d
+    Data Structure  :   des4, after des3, 5d
+```
 
 # Table of Contents
 - [Scope](doc/ch00-scope.md)
