@@ -129,7 +129,7 @@
     - Adapter
     - Proxy
 
-## Part C: System Design Problems & Code
+## Part D: System Design Problems & Code
 
 - Design a URL Shortening Service
 - Design a File Storage Service

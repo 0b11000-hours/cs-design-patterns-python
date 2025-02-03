@@ -67,8 +67,11 @@ to understand and apply them to solve problems.
 ```
 
 # Table of Contents
+## Part A: Language & Data Structures
 - [Introduction](doc/ch01-introduction.md)
 - [Language: Python](doc/ch02-python.md)
+
+## Part B: Coding Patterns
 - [Iteration](doc/ch03-itertion.md)
 - [Partition](doc/ch04-partition.md)
 - [Sliding-window](doc/ch05-sliding-window.md)
@@ -76,6 +79,10 @@ to understand and apply them to solve problems.
 - [Lexicographic Order](doc/ch07-lexicographic-order.md)
 - [Backtracking](doc/ch08-backtracking.md)
 - [Merge](doc/ch09-merge.md)
+
+## Part C: System Design Basics
+
+## Part D: System Design Problems & Code
 
 # References
 
