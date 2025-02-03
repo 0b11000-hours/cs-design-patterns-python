@@ -1,10 +1,22 @@
-# Coding Patterns in Python
+# Coding & System Design Patterns in Python
 
-This repository is a collection of coding patterns in Python. The idea is to have a collection of patterns that can be
-used to solve common problems in Python. 
+This repository is a collection of coding and system desing patterns in Python. This repo contains a collection of
+patterns for solving coding problems and system design problems. The patterns are organized in a way that makes it easy
+to understand and apply them to solve problems.
+
+# Roadmap
+
+```mermaid
+    gantt
+    section Section
+    Initial milestone : milestone, m1, 2025-02-01, 2m
+    Initialize :done,    des1,2025-02-01, 2d
+    Scope Finalize   :  active,  des2, 2025-02-01, 5d
+    Python Language :   des3, after des1, 5d
+    Data Structure  :   des4, after des3, 5d
+```
 
 # Table of Contents
-- [Roadmap](roadmap.md)
 - [Scope](doc/ch00-scope.md)
 - [Introduction](doc/ch01-introduction.md)
 - [Language: Python](doc/ch02-python.md)
