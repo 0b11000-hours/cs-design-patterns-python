@@ -7,6 +7,7 @@ used to solve common problems in Python.
 - [Roadmap](roadmap.md)
 - [Scope](doc/ch00-scope.md)
 - [Introduction](doc/ch01-introduction.md)
+- [Language: Python](doc/ch02-python.md)
 
 # References
 
