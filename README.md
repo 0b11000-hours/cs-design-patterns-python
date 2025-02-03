@@ -1,9 +1,14 @@
-# psolve
-Solving Polynomial Problems
+# Coding Patterns in Python
 
-# RoadMap
+This repository is a collection of coding patterns in Python. The idea is to have a collection of patterns that can be
+used to solve common problems in Python. 
 
-- 10 Problems patterns - Maths and Basic [October]
-- Design Patterns - State vs Stateless   [November]
-- 10 Problems patterns - DB and Graph    [December]
-- 10 Distributed Design Patterns -       [December]
+# Table of Contents
+- [Roadmap](roadmap.md)
+- [Scope](doc/ch00-scope.md)
+- [Introduction](doc/ch01-introduction.md)
+
+# References
+
+- [MD Cheatsheet](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+
