@@ -220,4 +220,16 @@ even_squares = [x**2 for x in range(10) if x % 2 == 0] # [0, 4, 16, 36, 64]
 pairs = [(x, y) for x in range(3) for y in range(3)] # [(0, 0), (0, 1), (0, 2), (1, 0), (1, 1), (1, 2), (2, 0), (2, 1), (2, 2)]
 ```
 
+## Scratch Pad
 
+- Data Types
+- Loops and list comprehension
+- Data Structure - Stack and Queue
+- Dictonary
+- Class and Introspection
+- Math
+  - step function
+  - modulous
+  - factorial and fibonacci
+- Memonization or dynamic programming
+- Greedy
