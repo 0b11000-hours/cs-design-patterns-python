@@ -68,19 +68,33 @@ to understand and apply them to solve problems.
 
 # Table of Contents
 ## Part A: Language & Data Structures
-- [Introduction](doc/ch01-introduction.md)
-- [Language: Python](doc/ch02-python.md)
+- [Introduction](doc/A-language-and-ds/ch01-introduction.md)
+- [Language: Python](doc/A-language-and-ds/ch02-python.md)
+- [Troubleshooting](doc/A-language-and-ds/ch03-troubleshooting.md)
 
 ## Part B: Coding Patterns
-- [Iteration](doc/ch03-itertion.md)
-- [Partition](doc/ch04-partition.md)
-- [Sliding-window](doc/ch05-sliding-window.md)
-- [last-k](doc/ch06-last-k.md)
-- [Lexicographic Order](doc/ch07-lexicographic-order.md)
-- [Backtracking](doc/ch08-backtracking.md)
-- [Merge](doc/ch09-merge.md)
+- [Iteration](doc/B-coding-patterns/ch03-itertion.md)
+- [Partition](doc/B-coding-patterns/ch04-partition.md)
+- [Sliding-window](doc/B-coding-patterns/ch05-sliding-window.md)
+- [last-k](doc/B-coding-patterns/ch06-last-k.md)
+- [Lexicographic Order](doc/B-coding-patterns/ch07-lexicographic-order.md)
+- [Backtracking](doc/B-coding-patterns/ch08-backtracking.md)
+- [Merge](doc/B-coding-patterns/ch09-merge.md)
 
 ## Part C: System Design Basics
+- [System Design Basics](doc/C-system-design-basics/ch01-system-design-basics.md)
+- [Linux Internal](doc/C-system-design-basics/ch02-linux-internal.md)
+- [Database Internal](doc/C-system-design-basics/ch03-database-internal.md)
+- [Socket & Web Socket](doc/C-system-design-basics/ch04-socket-and-websocket.md)
+- [Replication](doc/C-system-design-basics/ch05-replication.md)
+- [API Gateway](doc/C-system-design-basics/ch06-api-gateway.md)
+- [CDN](doc/C-system-design-basics/ch08-cdn.md)
+- [Serverless](doc/C-system-design-basics/ch09-serverless-architecture.md)
+- [Caching](doc/C-system-design-basics/ch10-caching.md)
+- [Stateful vs Stateless Architecture](doc/C-system-design-basics/ch11-stateful-vs-stateless-architecture.md)
+- [Proxy](doc/C-system-design-basics/ch12-proxy.md)
+- [Observability](doc/C-system-design-basics/ch13-observability.md)
+
 
 ## Part D: System Design Problems & Code
 
