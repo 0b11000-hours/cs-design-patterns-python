@@ -4,7 +4,7 @@ This repository is a collection of coding and system desing patterns in Python. 
 patterns for solving coding problems and system design problems. The patterns are organized in a way that makes it easy
 to understand and apply them to solve problems.
 
-- [Scope](doc/ch00-scope.md) 
+- [Scope](doc/ch00-scope.md)
 
 ```mermaid
     timeline
@@ -54,7 +54,7 @@ to understand and apply them to solve problems.
             : Video Streaming Service
 ```
 
-# Roadmap
+## Roadmap
 
 ```mermaid
     gantt
@@ -66,13 +66,16 @@ to understand and apply them to solve problems.
     Data Structure  :   des4, after des3, 5d
 ```
 
-# Table of Contents
-## Part A: Language & Data Structures
+## Table of Contents
+
+### Part A: Language & Data Structures
+
 - [Introduction](doc/A-language-and-ds/ch01-introduction.md)
 - [Language: Python](doc/A-language-and-ds/ch02-python.md)
 - [Troubleshooting](doc/A-language-and-ds/ch03-troubleshooting.md)
 
-## Part B: Coding Patterns
+### Part B: Coding Patterns
+
 - [Iteration](doc/B-coding-patterns/ch03-itertion.md)
 - [Partition](doc/B-coding-patterns/ch04-partition.md)
 - [Sliding-window](doc/B-coding-patterns/ch05-sliding-window.md)
@@ -81,7 +84,8 @@ to understand and apply them to solve problems.
 - [Backtracking](doc/B-coding-patterns/ch08-backtracking.md)
 - [Merge](doc/B-coding-patterns/ch09-merge.md)
 
-## Part C: System Design Basics
+### Part C: System Design Basics
+
 - [System Design Basics](doc/C-system-design-basics/ch01-system-design-basics.md)
 - [Linux Internal](doc/C-system-design-basics/ch02-linux-internal.md)
 - [Database Internal](doc/C-system-design-basics/ch03-database-internal.md)
@@ -95,10 +99,8 @@ to understand and apply them to solve problems.
 - [Proxy](doc/C-system-design-basics/ch12-proxy.md)
 - [Observability](doc/C-system-design-basics/ch13-observability.md)
 
+### Part D: System Design Problems & Code
 
-## Part D: System Design Problems & Code
-
-# References
+## References
 
 - [MD Cheatsheet](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
-

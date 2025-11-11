@@ -1,6 +1,5 @@
 # Python
 
-
 ## Data Types
 
 ## Numbers
@@ -233,3 +232,36 @@ pairs = [(x, y) for x in range(3) for y in range(3)] # [(0, 0), (0, 1), (0, 2), 
   - factorial and fibonacci
 - Memonization or dynamic programming
 - Greedy
+
+## General Purpose Scientific Libraries
+
+- NumPy - Numerical Python
+  - https://numpy.org/doc/stable/reference/
+- Mathplotlib - Plotting library
+- Pandas - Data analysis and manipulation tool
+- SciPy - Scientific computing library
+- NetworkX - Network analysis library
+  - [https://networkx.org/documentation/stable/reference/index.html](
+- Graphviz - Graph visualization software
+  - [https://graphviz.org/documentation/](Graphviz.org/documentation/)
+- SymPy - Symbolic mathematics library
+
+## References
+
+- [https://docs.python.org/3/](https://docs.python.org/3/)
+- [https://docs.python.org/3/reference/datamodel.html](https://docs.python.org/3/reference/datamodel.html)
+- [https://realpython.com/python-data-types/](https://realpython.com/python-data-types/)
+
+### Online Python Interpreters
+
+- [https://colab.research.google.com/](https://colab.research.google.com/)
+- [https://pyodide.org/en/stable/console.html](https://pyodide.org/en/stable/console.html)
+  - [https://pyodide.com](https://pyodide.com)
+- [https://replit.com/languages/python3](https://replit.com/languages/python3)
+
+### Newsletters
+
+- [https://pycoders.com/](https://pycoders.com/)
+- [https://www.pythonweekly.com/](https://www.pythonweekly.com/)
+- [https://www.pythontips.com/](https://www.pythontips.com/)
+
